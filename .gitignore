@@ -18,3 +18,10 @@ logs/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Generated Data
+data/processed/
+
+# Log Files
+logs/
+*.log
